@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="blue">#286398</color>
+    <color name="grey">#535353</color>
+    <color name="listView_item_bg_p">#b5b5b5</color>
+    <color name="listView_item_bg">#eeeeee</color>
+    <color name="common">#eeeeee</color>
+        
+</resources>
